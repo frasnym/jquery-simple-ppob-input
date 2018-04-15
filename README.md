@@ -12,7 +12,5 @@ Demo will be updated!
 
 Question is always welcome ^o^
 
-Regard,
-Nyoman Frastyawan
-frastyawan.nym@gmail.com
-+6281999200585
+Regards,
+Nyoman Frastyawan (frastyawan.nym@gmail.com / +6281999200585)
