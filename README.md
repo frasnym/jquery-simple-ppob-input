@@ -8,7 +8,7 @@ Tools :
 1. Bootstrap 4
 2. Jquery
 
-Demo will be updated!
+Demo here: https://codepen.io/frasnym/pen/xzwNaa
 
 Question is always welcome ^o^
 
